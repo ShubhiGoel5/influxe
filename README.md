@@ -4,9 +4,7 @@
 
 > A polished, modern influencer search and management application built with **React 19**, **TypeScript**, **Vite**, and **Tailwind CSS**. 
 
-**🚀 Live Deployment:** [https://influxe1.vercel.app/](https://influxe1.vercel.app/)
 
----
 
 ## 📖 Overview
 
@@ -43,8 +41,7 @@ Users can seamlessly discover top influencers across platforms (Instagram, YouTu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/wobb-assignment.git
-   cd wobb-assignment
+   git clone https://github.com/ShubhiGoel5/influxe.git
    ```
 
 2. **Install dependencies:**
@@ -76,5 +73,4 @@ During the development of this assignment, several architectural and design deci
 3. **Layout Engine**: The dashboard layout was rebuilt from scratch using a strict Flexbox row paradigm rather than fixed positioning. This guarantees zero overlap or overflow bugs on any viewport size, making the app 100% robust.
 4. **Data Fetching**: Kept the local JSON file imports for instantaneous UI feedback, simulating a highly optimized edge-cached API response. In a real-world scenario, this would be replaced with React Query or SWR for remote data fetching.
 
----
-*Built with ❤️ for the Wobb Frontend Assignment.*
+
